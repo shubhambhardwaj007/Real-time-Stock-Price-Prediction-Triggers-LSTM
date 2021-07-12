@@ -1,0 +1,13 @@
+Real_Time_Stock_Price_Prediction_Threshold_Triggers_task:
+=========================================================
+
+OBJECTIVES:
+===========
+
+
+1: Create an LSTM Model using Stock Price Historical data.
+
+2: Predict Future Stock Prices based on Trained LSTM Model.
+
+3: Deploying Notification based on Threshold Triggers.
+
